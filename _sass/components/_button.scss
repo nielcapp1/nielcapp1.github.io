@@ -1,0 +1,85 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the button component.
+// -----------------------------------------------------------------------------
+
+.btn{
+    width: $circle;
+    height: $circle;
+    border-radius: 50%;
+    background-color: $white;
+}
+
+.btn-rating{
+    margin: $circle/4;
+    border: $border-black;  
+}
+
+.btn--slider{
+    position: absolute;
+    margin: $circle/4;
+    border: $border-black;
+}
+
+.white-space-left{
+    z-index: 999;
+    position: absolute;
+    background-color: $white;
+    height: 3.75vh*3;
+    width: 3.75vh*3;
+    top: 37.5vh-5.625;
+    left: 10%;
+}
+
+.white-space-right{
+    z-index: 999;
+    position: absolute;
+    background-color: $white;
+    height: 3.75vh*3;
+    width: 3.75vh*3;
+    top: 37.5vh-5.625;
+    right: 10%;
+}
+
+.btn--nav{
+    border: $border-yellow;
+    float: left;
+    margin: 2.5vh 1.25vw;
+}
+
+.btn-back{
+    border: $border-yellow;
+    position: absolute;
+    bottom: -1.4vh;
+    right: -$circle/2;
+}
+
+.arrow {
+    width: $circle/4;
+    height: $circle/4;
+}
+
+.arrow--back-left{
+    transform: rotate(315deg);
+    margin: $circle/6;
+    margin-left: $circle/5;
+    border-top: $border-black-arrow;
+    border-left: $border-black-arrow;
+}
+
+.arrow--slider-right{
+    transform: rotate(135deg);
+    margin: $circle/6;
+    margin-left: $circle/7;
+    border-top: $border-yellow-arrow;
+    border-left: $border-yellow-arrow;
+}
+
+.arrow--slider-left{
+    transform: rotate(315deg);
+    margin: $circle/6;
+    margin-left: $circle/5;
+    border-top: $border-yellow-arrow;
+    border-left: $border-yellow-arrow;
+}
+
+

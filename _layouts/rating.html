@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+<div class="container">
+    <div class="header">
+        <div class="header--global">
+            <div class="header--global-text">
+                <p></p>
+                <a href="home.html">
+                    <div class="btn btn-back">
+                        <div class="arrow arrow--back-left">
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="content--rating">
+        <div class="text--rating">
+            <p>GEEF EEN RATING VOOR</p>
+            <p class="coffeebar"></p>
+        </div>
+        <form id="rating" action="">
+        <ul class="group-rating">
+            <li class="btn btn-rating">
+                <input type="radio" id="rating1" name="rating" value="1"/>
+                <label for="rating1">1</label>
+            </li>
+            <li class="btn btn-rating">
+                <input type="radio" id="rating2" name="rating" value="2"/>
+                <label for="rating2">2</label>
+            </li>
+            <li class="btn btn-rating">
+                <input type="radio" id="rating3" name="rating" value="3"/>
+                <label for="rating3">3</label>
+            </li>
+            <li class="btn btn-rating">
+                <input type="radio" id="rating4" name="rating" value="4"/>
+                <label for="rating4">4</label>
+            </li>
+            <li class="btn btn-rating">
+                <input type="radio" id="rating5" name="rating" value="5"/>
+                <label for="rating5">5</label>
+            </li>
+        </ul>
+        </form>
+    </div>
+{% include navigation.html %}
+</body>
+{% include scripts.html %}
+</html>

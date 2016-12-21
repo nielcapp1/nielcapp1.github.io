@@ -1,0 +1,75 @@
+// -----------------------------------------------------------------------------
+// This file contains very basic styles.
+// -----------------------------------------------------------------------------
+
+/**
+ * Set up a decent box model on the root element
+ */
+html {
+  box-sizing: border-box;
+}
+
+/**
+ * Make all elements from the DOM inherit from the parent box-sizing
+ * Since `*` has a specificity of 0, it does not override the `html` value
+ * making all elements inheriting from the root box-sizing value
+ * See: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+*, *::before, *::after {
+  box-sizing: inherit;
+} 
+
+/**
+ * Basic styles for links
+ */
+
+a {
+  color: $black;
+  text-decoration: none;
+
+  @include on-event {
+    color: $yellow;
+    text-decoration: underline;
+  }
+}
+
+.title__app .img
+{
+width: 200px;
+display: block;
+margin: 0 auto;
+margin-bottom: 70px;
+
+}
+
+.title__app, .launch__discription 
+{
+text-align: center;
+
+}
+
+.title__app {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%); /* IE 9 */
+  -webkit-transform: translate(-50%, -50%); /* Safari */
+  transform: translate(-50%, -50%);
+}
+
+
+
+#map_div img {
+  /* Prevent streetview buddy from getting squished by img max-width: 100% */
+  max-width: none; 
+}
+
+#infowindow-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+#infowindow-content ul li {
+  padding-bottom: 3px;
+}
+

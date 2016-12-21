@@ -1,0 +1,58 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+.content{
+    height: $height12;
+    background-color: $white;
+    text-align: center;
+}
+
+.parking--title{
+    height: $height2;
+    font-size: $font-large;
+    font-weight: bold;
+    padding: $height1/2 0;
+
+}
+
+.parkingspot{
+    height: $height3; 
+    display: block;
+ 
+    margin: 0 auto;
+    margin-bottom: $circle/4;
+}
+
+.parkingspot--available-capacity{
+    height: $circle;
+    width: $circle;
+    border: $border-yellow;
+    border-radius: 50%;
+    line-height: $circle/1.5;
+    font-size: $font-small;
+    display: inline-block;
+
+
+
+    font-weight: bold;
+
+
+}
+
+.parkingspot--name{
+    font-weight: bold;
+    font-size: $font-medium;
+    padding-top: $circle/3;
+
+
+
+}
+
+.parkingspot--distance{
+    font-size: $font-small;
+    padding-top: .25vw;
+}
+
+
+
+

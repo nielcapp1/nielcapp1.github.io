@@ -1,0 +1,104 @@
+.content--rating{
+    margin: $height4 auto;
+    height: $height4;
+    display: block; 
+    text-align: center;
+    padding: $circle/3 0
+}
+
+.message-wifi{
+    display:block;
+
+    height: $height2;
+    left: -$circle/1.25;
+    position: absolute;
+    bottom: $height1;
+    font-size: $font-small;
+    text-align: center;
+    padding-top: $height1;
+    top: -$circle*2.25;
+    font-weight: bold;
+}
+
+.arrow--message-down{
+    transform: rotate(225deg);
+    margin: $circle/6;
+    margin-left: $circle/6;
+    border-top: $border-black-arrow;
+    border-left: $border-black-arrow;
+    position: absolute;
+    top: -$circle;
+}
+
+.coffeebar{
+    color: $yellow;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: $circle/8 0;
+    font-size: $font-medium;
+}
+.text--rating{
+    text-align: center;
+        font-size: $font-small;
+}
+.group-rating {
+    
+     list-style-type:none;
+     padding:0;
+     li {
+        float:left;
+        margin: 2.5vh 1.25vw;
+        width:$circle;
+        height:$circle;
+        border-radius: 50%;
+        position:relative;
+     } 
+}
+
+
+.group-rating label, .group-rating input {
+    display:block;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+
+.group-rating input[type="radio"] {
+    opacity:0.01;
+    z-index:100;
+}
+
+.group-rating input[type="radio"]:checked + label,
+.Checked + label {
+    color: $yellow;
+
+}
+
+.group-rating label {
+     cursor:pointer;
+}
+
+
+
+.group-rating{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    display: inline-block;
+}
+
+.btn-rating{
+	display: block;
+	border: $border-black;
+	width: $circle;
+	height: $circle;
+	line-height: $circle/1.6;
+	text-align: center;
+	float: left;
+    font-size: $font-medium;
+    font-weight: bold;
+}
+
+

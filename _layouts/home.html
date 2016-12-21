@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+<div class="container">
+    <div class="header">
+        <div class="header--home">
+            <h1 class="header--home-text">CHOOSE A COFFEEBAR</h1>
+        </div>
+    </div>
+
+    <div class="slider">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+            </div>
+            <div class="btn white-space-left">
+                <div class="btn btn--slider swiper-button-prev">
+                    <div class="arrow arrow--slider-left">
+                    </div>
+                </div>
+            </div>
+            <div class="btn white-space-right">
+                <div class="btn btn--slider  swiper-button-next">
+                    <div class="arrow arrow--slider-right">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% include navigation.html %}
+</body>
+{% include scripts.html %}
+<script type="text/javascript" src="../js/vendor/Swiper-3.4.0/dist/js/swiper.min.js"></script>
+<script src="../js/slider-coffeebar.js"></script>
+</html>

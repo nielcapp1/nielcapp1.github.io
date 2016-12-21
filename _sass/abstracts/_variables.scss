@@ -1,0 +1,75 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+
+/// FONTS
+$font-small: 2vh;
+$font-medium: 3vh;
+$font-large: 3.5vh;
+
+
+/// HEIGHTS AND WIDTHS
+$height1: 6.25vh;
+$height2: 12.5vh;
+$height3: 18.75vh;
+$height4: 25vh;
+$height5: 31.25vh;
+$height6: 37.5vh;
+$height7: 43.75vh;
+$height8: 50vh;
+$height9: 56.25vh;
+$height10: 62.5vh;
+$height11: 68.75vh;
+$height12: 75vh;
+$height13: 81.25vh;
+$height14: 87.5vh;
+$height15: 93.75vh;
+$height16: 100vh;
+
+$border-width: 1.5vh;
+
+$circle: 7.5vh;
+
+
+/// COLORS
+$black: #000 !default;
+$yellow: #FFD800 !default;
+$white: #FFF !default;
+
+
+
+/// BORDERS
+$border-yellow: solid $border-width $yellow;
+$border-black: solid $border-width $black;
+$border-black-arrow: solid $border-width/1.5 $black;
+$border-yellow-arrow: solid $border-width/1.5 $yellow;
+
+
+/// Container's maximum width
+/// @type Length
+$max-width: 1024px !default;
+
+
+
+
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+$breakpoints: (
+  'small' 320px,
+  'medium' 768px,
+  'large' 1024px,
+) !default;
+
+
+
+
+
+
+/// Relative or absolute URL where all assets are served from
+/// @type String
+/// @example scss - When using a CDN
+///   $base-url: 'http://cdn.example.com/assets/';
+$base-url: '/assets/' !default;

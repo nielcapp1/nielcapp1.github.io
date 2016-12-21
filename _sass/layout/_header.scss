@@ -1,0 +1,33 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+.header{
+    height: $height2;
+    background-color: $white;
+    position: relative;
+}
+
+.header--home{
+    position: absolute;
+    max-width: $max-width;
+    width: 100%;
+    border-bottom: $border-yellow;
+    bottom: 0;
+    h1 {
+        text-align: center;
+        line-height: $height1;
+        font-size: $height1/2;
+    }
+}
+
+.header--global{
+    position: absolute;
+    border-bottom: $border-yellow;
+    bottom: 0;
+    padding: 0 $circle $circle/8 $circle/2;
+    p {
+        text-align: center;
+        font-size: $height1/3;
+        font-weight: bold;
+    }
+}

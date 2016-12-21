@@ -1,0 +1,32 @@
+.content--wifi{
+    margin: $height4 auto;
+    height: $height4;
+    display: block; 
+    text-align: center;
+    padding: $circle/3 0
+}
+
+.text--wifi{
+    text-align: center;
+    font-size: $font-small;
+    font-weight: bold;
+    
+}
+
+.wifi-username{
+        padding: $circle/4 0 $circle/8 ;
+}
+
+.wifi-code{
+        padding: $circle/8 0;
+}
+
+.fa-user{
+    font-size: $font-medium;
+    margin-right: 0.5vw;
+}
+
+.fa-key{
+    font-size: $font-medium;
+    margin-right: 0.5vw;
+}

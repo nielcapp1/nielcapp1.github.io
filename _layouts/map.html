@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRJkTqPHZI3aYUmI503o6OhhJGhOJ_664"></script>    
+<body>
+<div class="container">
+    <div class="header">
+        <div class="header--global">
+            <div class="header--global-text">
+                <p>GO BACK !</p>
+                <a href="home.html">
+                    <div class="btn btn-back">
+                        <div class="arrow arrow--back-left">
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div id="map_div"></div>
+    <div class="map_info">
+        <ul>
+            <li class="koffiebar-name"></li>
+            <li class="koffiebar-adres"></li>
+        </ul>
+        <table>
+            <tr>
+                <th>Dag</th>
+                <th colspan="2">Uren</th>
+            </tr>
+            <tr>
+                <td>Maandag</td>
+                <td class="koffiebar-openingsuren-maandag"></td>
+            </tr>
+            <tr>
+                <td>Dinsdag</td>
+                <td class="koffiebar-openingsuren-dinsdag"></td>
+            </tr>
+            <tr>
+                <td>Woensdag</td>
+                <td class="koffiebar-openingsuren-woensdag"></td>
+            </tr>
+            <tr>
+                <td>Donderdag</td>
+                <td class="koffiebar-openingsuren-donderdag"></td>
+            </tr>
+            <tr>
+                <td>Vrijdag</td>
+                <td class="koffiebar-openingsuren-vrijdag"></td>
+            </tr>
+            <tr>
+                <td>Zaterdag</td>
+                <td class="koffiebar-openingsuren-zaterdag"></td>
+            </tr>
+            <tr>
+                <td>Zondag</td>
+                <td class="koffiebar-openingsuren-zondag"></td>
+            </tr>
+        </table>
+    </div>
+    
+
+    <div class="navigation">
+        <ul class="btn--nav-group">
+            <li class="btn btn--nav">
+                <a href="parking.html">
+                    <i class="parking-icon">P</i>
+                </a>        
+            </li>
+            <li class="btn btn--nav">
+                <a href="wifi.html">
+                    <i class="fa fa-wifi"></i>
+                </a>            
+            </li>
+            <li class="btn btn--nav">
+                <a href="rating.html">
+                    <i class="fa fa-star"></i>
+                </a>
+            </li>
+            <li class="btn btn--nav active">
+                <a href="map.html">
+                    <i class="fa fa-map-marker"></i>
+                </a>
+            </li>
+            <li class="btn btn--nav">
+                <a href="description.html">
+                    <i class="fa fa-coffee"></i>
+                </a>    
+            </li>
+        </ul>
+    </div>
+</div>
+</body>
+{% include scripts.html %}
+<script src="../js/map.js"></script>  
+</html>

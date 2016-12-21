@@ -1,0 +1,41 @@
+.navigation{
+    float:right;
+    position:relative;
+    left:-50%;
+    text-align:left;
+        ul {
+            list-style:none;
+            position:relative;
+            left:50%;
+            .active {
+                opacity: 1;
+            }
+	        li {
+		        opacity: 0.2;
+                display: block;
+                position:relative;
+                float:left;
+                line-height: 4.75vh;
+                text-align:center;
+                white-space:nowrap;
+                .active{
+                opacity: 1;
+
+                }
+                .parking-icon {
+                    font-weight: bold;
+                    }
+                i {
+                    font-size: 2.5vh;
+                    font-style: normal;
+                }
+            }
+        }
+}
+.wifi-unlock{
+    border: $border-black;
+}
+ul:checked li { opacity:1; }
+ul li:checked { opacity:0.5; }
+
+
