@@ -10,7 +10,7 @@
         "adres":"Kammerstraat 6, 9000 Gent",
         "markername":"",
         "image":"../images/lebalinfernal.jpg",
-        "description":"In deze koffiebar/café kun je niet alleen terecht voor een drankje of hapje, maar ook voor een goed boek.",
+        "description":"In deze koffiebar kun je niet alleen terecht voor een drankje of hapje, maar ook voor een goed boek.",
         "openingsuren":
             {
             "maandag": "Gesloten",
@@ -106,7 +106,7 @@
         "title":"Barista",
         "markername":"",
         "image":"../images/barista.jpg",
-        "description":"De naam barista, koffiesommelier, zegt het zelf, hier weten ze wat goeie koffie is en hoe die te zetten.",
+        "description":"De naam barista, koffiesommelier, zegt het zelf. Hier weten ze wat goeie koffie is en hoe die te zetten.",
         "openingsuren":
             {
             "maandag": "Gesloten",
@@ -202,7 +202,7 @@
         "adres":"Kortrijksesteenweg 27, 9000 Gent",
         "markername":"",
         "image":"../images/myplace.jpg",
-        "description":"MYplace is gelegen bij het sint-pieterstation. Hier kun je terecht voor o.a. koffie, verse soep en homemade quiche.",
+        "description":"MYplace is gelegen bij het sint-pieterstation. Naast koffie kun je hier ook verse soep en homemade quiche verkrijgen.",
         "openingsuren":
             {
             "maandag": "Gesloten",
@@ -394,7 +394,7 @@
         "adres":"Hoefslagstraatje 6, 9000 Gent",
         "markername":"",
         "image":"../images/mrsbeanzz.jpg",
-        "description":"In deze koffiebar staan lekkere veggie quiches, boterhammen, croques , tapas en zoete lekkernijen op het menu.",
+        "description":"In deze koffiebar staan lekkere veggie quiches, boterhammen, croques, tapas en zoete lekkernijen op het menu.",
         "openingsuren":
             {
             "maandag": "Gesloten",
@@ -682,7 +682,7 @@
         "adres":"Kramersplein 5, 9000 Gent",
         "markername":"",
         "image":"../images/barjancremer.jpg",
-        "description":"Deze koffiebar en hotspot aan het Kramersplein serveert bagels of gestreken mastellen met koffie in het houten interieur.",
+        "description":"Deze hotspot die gelegen is aan het Kramersplein serveert bagels of gestreken mastellen met koffie in het houten interieur.",
         "openingsuren":
             {
             "maandag": "Gesloten",
@@ -1256,7 +1256,7 @@
         "adres":"Sint-Clarastraat 1, 9000 Gent",
         "markername":"",
         "image":"../images/koffiesdedraak.jpg",
-        "description":"Trendy koffieplek in een mooi gebouw uit 1904. Blikvangers zijn de goudkleurige muurtekeningen van Panamarenko.",
+        "description":"In deze koffiebar vindt u ambachtelijke gebrande koffiespecialiteiten en een uitgebreid thee-assortiment.",
         "openingsuren":
             {
             "maandag": "Gesloten",
