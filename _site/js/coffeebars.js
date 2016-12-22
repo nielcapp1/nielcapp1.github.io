@@ -1,6 +1,5 @@
     var json = {
-        "coffeebars":[
-            
+        "coffeebars":[  
         {
         "id":1,
         "link":"\/nl\/resto-le-bal-infernal?from_category=3950\u0026context=tourist",
