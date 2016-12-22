@@ -13,13 +13,13 @@
         "description":"In deze koffiebar kun je niet alleen terecht voor een drankje of hapje, maar ook voor een goed boek.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag":"12:00–01:00",
+            "dinsdag":"12:00–01:00",
+            "woensdag":"12:00–01:00",
+            "donderdag":"12:00–01:00",
+            "vrijdag":"12:00–03:00",
+            "zaterdag":"12:00–03:00",
+            "zondag":"12:00–00:00"
             },
         "opts":{"title":"Le Bal Infernal"},
         "facebook":"https://www.facebook.com/lebalinfernal/?fref=ts",
@@ -109,13 +109,13 @@
         "description":"De naam barista, koffiesommelier, zegt het zelf. Hier weten ze wat goeie koffie is en hoe die te zetten.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag":"08:00–18:00",
+            "dinsdag":"08:00–18:00",
+            "woensdag":"08:00–18:00",
+            "donderdag":"08:00–18:00",
+            "vrijdag":"08:00–18:00",
+            "zaterdag":"9:30–18:00",
+            "zondag":"gesloten"
             },
         "opts":{"title":"Barista"},
         "facebook":"https://www.facebook.com/BARISTA-coffeecake-36801171140/",
@@ -205,13 +205,13 @@
         "description":"MYplace is gelegen bij het sint-pieterstation. Naast koffie kun je hier ook verse soep en homemade quiche verkrijgen.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag":"08:00–18:00",
+            "dinsdag":"08:00–18:00",
+            "woensdag":"08:00–18:00",
+            "donderdag":"08:00–18:00",
+            "vrijdag":"08:00–18:00",
+            "zaterdag":"Gesloten",
+            "zondag":"Gesloten"
             },
         "opts":{"title":"MYplace"},
         "facebook":"https://www.facebook.com/atMYgent/?fref=ts",
@@ -301,13 +301,13 @@
         "description":"Deze zaak combineert een winkel van tweedehands meubelen, nieuwe geschenken en interieurartikelen, met een huiselijk cafeetje.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag":"09:30–17:30",
+            "dinsdag":"09:30–17:30",
+            "woensdag":"Gesloten",
+            "donderdag":"09:30–17:30",
+            "vrijdag":"10:00–17:30",
+            "zaterdag":"10:00–17:30",
+            "zondag":"Gesloten"
             },
         "opts":{"title":"Le Petit Cirque"},
         "facebook":"https://www.facebook.com/lepetitcirque/?fref=ts",
@@ -397,13 +397,13 @@
         "description":"In deze koffiebar staan lekkere veggie quiches, boterhammen, croques, tapas en zoete lekkernijen op het menu.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag":"Gesloten",
+            "dinsdag":"09:00–21:00",
+            "woensdag":"09:00–21:00",
+            "donderdag":"09:00–21:00",
+            "vrijdag":"09:00–21:00",
+            "zaterdag":"09:00–21:00",
+            "zondag":"09:00–21:00"
             },
         "opts":{"title":"Mrs. Beanzz"},
         "facebook":"https://www.facebook.com/pages/Mrs-Beanzz/183886628394688?fref=ts",
@@ -494,12 +494,12 @@
         "openingsuren":
             {
             "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "dinsdag":"10:00–18:30",
+            "woensdag":"10:00–18:30",
+            "donderdag":"10:00–18:30",
+            "vrijdag":"10:00–18:30",
+            "zaterdag":"09:00–18:30",
+            "zondag":"09:00–18:30"
             },
         "opts":{"title":"Chocolato"},
         "facebook":"https://www.facebook.com/chocolatier.chocolato/",
@@ -589,13 +589,13 @@
         "description":"Belle Histoire, in hartje Gent, is meer dan enkel een koffiehuis.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
+            "maandag":"09:00–18:00",
             "dinsdag":"09:00–18:00",
             "woensdag":"09:00–18:00",
             "donderdag":"09:00–18:00",
             "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "zaterdag":"09:00–18:00",
+            "zondag":"Gesloten"
             },
         "opts":{"title":"Belle Histoire"},
         "facebook":"https://www.facebook.com/Belle-Histoire-156115537780911/?fref=ts",
@@ -685,13 +685,13 @@
         "description":"Deze hotspot die gelegen is aan het Kramersplein serveert bagels of gestreken mastellen met koffie in het houten interieur.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag": "10:00–19:00",
+            "dinsdag":"10:00–19:00",
+            "woensdag":"10:00–19:00",
+            "donderdag":"10:00–19:00",
+            "vrijdag":"10:00–19:00",
+            "zaterdag":"10:00–19:00",
+            "zondag":"10:00–19:00"
             },
         "opts":{"title":"Bar Jan Cremer"},
         "facebook":"https://www.facebook.com/barjancremer/?fref=ts",
@@ -781,13 +781,13 @@
         "description":"Boekhandel annex koffiehuis met groot zomerterras op de Kouter.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
+            "maandag": "13:00–18:00",
+            "dinsdag":"10:00–18:00",
+            "woensdag":"10:00–18:00",
+            "donderdag":"10:00–18:00",
+            "vrijdag":"10:00–18:00",
             "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "zondag":"09:00-13:00"
             },
         "opts":{"title":"Paard van Troje"},
         "facebook":"https://www.facebook.com/Paard-Van-Troje-142973938539/?fref=ts",
@@ -877,13 +877,13 @@
         "description":"Dezer dagen verrijzen er tal van koffiebars, maar hier vind je echter dé oerkoffiezaak van Gent.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag": "09:00–18:30",
+            "dinsdag":"09:00–18:30",
+            "woensdag":"09:00–18:30",
+            "donderdag":"09:00–18:30",
+            "vrijdag":"09:00–18:30",
+            "zaterdag":"00:00–18:30",
+            "zondag":"Gesloten"
             },
         "opts":{"title":"Mokabon"},
         "facebook":"https://www.facebook.com/pages/Gent-Mokabon/604898379611584",
@@ -973,11 +973,11 @@
         "description":"In deze koffie- en fietsbar vlakbij Portus Ganda vergaap je je aan exclusieve fietsen en accessoires, terwijl je geniet van een cappuccino of een andere koffie … met fietsmotief in het melkschuim.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
+            "maandag": "09:00–17:00",
+            "dinsdag":"09:00–17:00",
+            "woensdag":"09:00–17:00",
+            "donderdag":"09:00–17:00",
+            "vrijdag":"09:00–17:00",
             "zaterdag":"10:00–18:00",
             "zondag":"10:00–18:00"
             },
@@ -1068,12 +1068,12 @@
         "description":"Pal aan kunstschool Sint-Lucas ligt koffiebar Labath. Dit hoekpand, met zijn gigantische uitkijk, doet enorm grootstedelijk aan.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
+            "maandag": "08:00–19:00",
+            "dinsdag":"08:00–19:00",
+            "woensdag":"08:00–19:00",
+            "donderdag":"08:00–19:00",
+            "vrijdag":"08:00–19:00",
+            "zaterdag":"09:00–19:00",
             "zondag":"10:00–18:00"
             },
         "opts":{"title":"Labath"},
@@ -1163,12 +1163,12 @@
         "description":"Ideaal voor wie zin heeft in de gezellige drukte, het lezen van de krant maar en voor het ongegeneerd naar buitenkijken aan de lange toog aan het venster.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
+            "maandag": "07:30–18:00",
+            "dinsdag":"07:30–18:00",
+            "woensdag":"07:30–18:00",
+            "donderdag":"07:30–18:00",
+            "vrijdag":"07:30-18:00",
+            "zaterdag":"09:00–18:00",
             "zondag":"10:00–18:00"
             },
         "opts":{"title":"Or Espresso Bar"},
@@ -1259,13 +1259,13 @@
         "description":"In deze koffiebar vindt u ambachtelijke gebrande koffiespecialiteiten en een uitgebreid thee-assortiment.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag":"8u30–16:30",
+            "dinsdag":"8u30–16:30",
+            "woensdag":"8u30–16:30",
+            "donderdag":"8u30–16:30",
+            "vrijdag":"8u30–16:30",
+            "zaterdag":"Gesloten",
+            "zondag":"Gesloten"
             },
         "opts":{"title":"Koffies De Draak"},
         "facebook":"https://www.facebook.com/koffiesdedraak/?fref=ts",
@@ -1355,13 +1355,13 @@
         "description":"In dit eethuisje in een 1920’s interieur kun je genieten van ontbijt, lunch en afternoon tea.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
-            "dinsdag":"09:00–18:00",
-            "woensdag":"09:00–18:00",
-            "donderdag":"09:00–18:00",
-            "vrijdag":"09:00–18:00",
-            "zaterdag":"10:00–18:00",
-            "zondag":"10:00–18:00"
+            "maandag":"Gesloten",
+            "dinsdag":"Gesloten",
+            "woensdag":"Gesloten",
+            "donderdag":"09:00–17:30",
+            "vrijdag":"09:00–17:30",
+            "zaterdag":"09:00–17:30",
+            "zondag":"09:00–17:30"
             },
         "opts":{"title":"Maison Elza"},
         "facebook":"https://www.facebook.com/thehouseofeliottgent/?fref=ts",
@@ -1451,7 +1451,7 @@
         "description":"Trendy koffieplek in een mooi gebouw uit 1904. Blikvangers zijn de goudkleurige muurtekeningen van Panamarenko.",
         "openingsuren":
             {
-            "maandag": "Gesloten",
+            "maandag":"Gesloten",
             "dinsdag":"09:00–18:00",
             "woensdag":"09:00–18:00",
             "donderdag":"09:00–18:00",
