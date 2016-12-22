@@ -33,22 +33,29 @@ a {
   }
 }
 
-.title__app .img
+.logo .img
 {
-width: 200px;
+width: $circle;
 display: block;
 margin: 0 auto;
-margin-bottom: 70px;
+
 
 }
 
-.title__app, .launch__discription 
-{
-text-align: center;
-
+.description{
+  text-align: center;
+  height: $height1;
+  width: 80vw;
+  margin: $height15 auto 0;
+  h1{
+    font-size: $font-large;
+  }
+  p{
+    font-size: $font-small;
+  }
 }
 
-.title__app {
+.logo {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -58,18 +65,4 @@ text-align: center;
 }
 
 
-
-#map_div img {
-  /* Prevent streetview buddy from getting squished by img max-width: 100% */
-  max-width: none; 
-}
-
-#infowindow-content ul {
-  list-style: none;
-  padding: 0;
-}
-
-#infowindow-content ul li {
-  padding-bottom: 3px;
-}
 

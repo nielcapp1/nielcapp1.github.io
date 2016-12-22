@@ -40,3 +40,18 @@ th:nth-child(2), td:nth-child(2) {
     text-align: left;
     padding-left: $circle/8;
 }
+
+
+#map_div img {
+  /* Prevent streetview buddy from getting squished by img max-width: 100% */
+  max-width: none; 
+}
+
+#infowindow-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+#infowindow-content ul li {
+  padding-bottom: 3px;
+}

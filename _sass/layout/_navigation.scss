@@ -8,20 +8,17 @@
             position:relative;
             left:50%;
             .active {
-                opacity: 1;
+                color: $yellow;
             }
 	        li {
-		        opacity: 0.2;
+		        opacity: 1;
                 display: block;
                 position:relative;
                 float:left;
                 line-height: 4.75vh;
                 text-align:center;
                 white-space:nowrap;
-                .active{
-                opacity: 1;
 
-                }
                 .parking-icon {
                     font-weight: bold;
                     }
@@ -35,7 +32,5 @@
 .wifi-unlock{
     border: $border-black;
 }
-ul:checked li { opacity:1; }
-ul li:checked { opacity:0.5; }
 
 

@@ -33,3 +33,12 @@ var current_coffeebar = json.coffeebars.filter(function (coffeebar) {
 $('.header--global-text p').html(current_coffeebar[0].title);
 $('.coffeebar').html(current_coffeebar[0].title);
 
+
+$(function() {
+     var pgurl = window.location.href.substr(window.location.href
+.lastIndexOf("/")+1);
+     $("a").each(function(){
+          if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
+          $(this).addClass("active");
+     })
+});

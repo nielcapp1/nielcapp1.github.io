@@ -428,16 +428,22 @@ a {
     color: #FFD800;
     text-decoration: underline; }
 
-.title__app .img {
-  width: 200px;
+.logo .img {
+  width: 7.5vh;
   display: block;
-  margin: 0 auto;
-  margin-bottom: 70px; }
+  margin: 0 auto; }
 
-.title__app, .launch__discription {
-  text-align: center; }
+.description {
+  text-align: center;
+  height: 6.25vh;
+  width: 80vw;
+  margin: 93.75vh auto 0; }
+  .description h1 {
+    font-size: 3.5vh; }
+  .description p {
+    font-size: 2vh; }
 
-.title__app {
+.logo {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -446,17 +452,6 @@ a {
   -webkit-transform: translate(-50%, -50%);
   /* Safari */
   transform: translate(-50%, -50%); }
-
-#map_div img {
-  /* Prevent streetview buddy from getting squished by img max-width: 100% */
-  max-width: none; }
-
-#infowindow-content ul {
-  list-style: none;
-  padding: 0; }
-
-#infowindow-content ul li {
-  padding-bottom: 3px; }
 
 /**
  * Basic typography style for copy text
@@ -609,17 +604,15 @@ body {
     position: relative;
     left: 50%; }
     .navigation ul .active {
-      opacity: 1; }
+      color: #FFD800; }
     .navigation ul li {
-      opacity: 0.2;
+      opacity: 1;
       display: block;
       position: relative;
       float: left;
       line-height: 4.75vh;
       text-align: center;
       white-space: nowrap; }
-      .navigation ul li .active {
-        opacity: 1; }
       .navigation ul li .parking-icon {
         font-weight: bold; }
       .navigation ul li i {
@@ -628,12 +621,6 @@ body {
 
 .wifi-unlock {
   border: solid 1.5vh #000; }
-
-ul:checked li {
-  opacity: 1; }
-
-ul li:checked {
-  opacity: 0.5; }
 
 .btn {
   width: 7.5vh;
@@ -909,6 +896,17 @@ th:nth-child(1), td:nth-child(1) {
 th:nth-child(2), td:nth-child(2) {
   text-align: left;
   padding-left: 0.9375vh; }
+
+#map_div img {
+  /* Prevent streetview buddy from getting squished by img max-width: 100% */
+  max-width: none; }
+
+#infowindow-content ul {
+  list-style: none;
+  padding: 0; }
+
+#infowindow-content ul li {
+  padding-bottom: 3px; }
 
 .content {
   height: 75vh;
