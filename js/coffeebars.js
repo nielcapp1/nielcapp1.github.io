@@ -960,7 +960,7 @@
         "markername":"",
         "adres":"Bisdomkaai 25, 9000 Gent",
         "image":"../images/barbidon.jpg",
-        "description":"In deze koffie- en fietsbar vlakbij Portus Ganda vergaap je je aan exclusieve fietsen en accessoires, terwijl je geniet van een koffie met fietsmotief in het melkschuim.",
+        "description":"In deze koffiebar vlakbij Portus Ganda vergaap je je aan exclusieve fietsen en accessoires, terwijl je geniet van een koffie met fietsmotief in het melkschuim.",
         "openingsuren":
             {
             "maandag": "09:00–17:00",
