@@ -425,8 +425,7 @@ a {
   color: #000;
   text-decoration: none; }
   a:hover, a:active, a:focus {
-    color: #FFD800;
-    text-decoration: underline; }
+    color: #FFD800; }
 
 .logo .img {
   width: 7.5vh;
