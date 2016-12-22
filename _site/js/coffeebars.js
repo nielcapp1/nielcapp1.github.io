@@ -34,64 +34,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.70",
+                "priceLarge":"€ 2.55",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.95",
+                "priceLarge":"€ 2.80",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 3.15",
+                "priceLarge":"€ 4.00",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.70",
+                "priceLarge":"€ 2.55",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 3.15",
+                "priceLarge":"€ 3.85",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.25",
+                "priceLarge":"€ 4.10",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.75",
+                "priceLarge":"€ 4.60",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.75",
+                "priceLarge":"€ 4.60",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -130,64 +130,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.60",
+                "priceLarge":"€ 2.45",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.85",
+                "priceLarge":"€ 2.70",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 3.05",
+                "priceLarge":"€ 3.90",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.60",
+                "priceLarge":"€ 2.45",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 3.05",
+                "priceLarge":"€ 3.75",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.15",
+                "priceLarge":"€ 4.00",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.65",
+                "priceLarge":"€ 4.50",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.65",
+                "priceLarge":"€ 4.70",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -322,64 +322,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.45",
+                "priceLarge":"€ 2.30",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.70",
+                "priceLarge":"€ 2.55",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.90",
+                "priceLarge":"€ 3.75",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.45",
+                "priceLarge":"€ 2.30",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.90",
+                "priceLarge":"€ 3.60",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 3.85",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.35",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.35",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -418,64 +418,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.55",
+                "priceLarge":"€ 2.40",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.80",
+                "priceLarge":"€ 2.65",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 3.85",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.55",
+                "priceLarge":"€ 2.40",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 3.70",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.10",
+                "priceLarge":"€ 3.95",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.60",
+                "priceLarge":"€ 4.45",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.60",
+                "priceLarge":"€ 4.45",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -514,64 +514,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.30",
+                "priceLarge":"€ 2.15",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.55",
+                "priceLarge":"€ 2.40",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.75",
+                "priceLarge":"€ 3.60",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.30",
+                "priceLarge":"€ 2.15",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.75",
+                "priceLarge":"€ 3.45",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 2.85",
+                "priceLarge":"€ 3.70",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.35",
+                "priceLarge":"€ 4.20",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.35",
+                "priceLarge":"€ 4.20",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -610,64 +610,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.35",
+                "priceLarge":"€ 2.20",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.60",
+                "priceLarge":"€ 2.45",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.80",
+                "priceLarge":"€ 3.65",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.35",
+                "priceLarge":"€ 2.20",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.80",
+                "priceLarge":"€ 3.50",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 2.90",
+                "priceLarge":"€ 3.75",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.40",
+                "priceLarge":"€ 4.25",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.40",
+                "priceLarge":"€ 4.25",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -706,47 +706,47 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.55",
+                "priceLarge":"€ 2.40",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.70",
+                "priceLarge":"€ 2.55",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.85",
+                "priceLarge":"€ 3.70",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.40",
+                "priceLarge":"€ 2.60",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.80",
+                "priceLarge":"€ 3.80",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
+                "priceSmall":"€ 3.25",
                 "priceLarge":"€ 3.90",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
@@ -754,16 +754,16 @@
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.30",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.30",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -802,64 +802,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.60",
+                "priceLarge":"€ 2.40",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.80",
+                "priceLarge":"€ 2.70",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.80",
+                "priceLarge":"€ 3.50",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.30",
+                "priceLarge":"€ 2.20",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.50",
+                "priceLarge":"€ 3.20",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 2.50",
+                "priceLarge":"€ 3.00",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.75",
+                "priceLarge":"€ 4.20",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.20",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -898,24 +898,24 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.20",
+                "priceLarge":"€ 2.20",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.50",
+                "priceLarge":"€ 2.50",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.50",
+                "priceLarge":"€ 3.50",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
@@ -923,39 +923,39 @@
                 "id":4,
                 "name":"Americano",
                 "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceLarge":"€ 2.50",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.00",
+                "priceLarge":"€ 3.00",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 3.50",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.30",
+                "priceLarge":"€ 4.20",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.25",
+                "priceLarge":"€ 4.47",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -994,64 +994,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.70",
+                "priceLarge":"€ 2.30",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.80",
+                "priceLarge":"€ 2.30",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.20",
+                "priceLarge":"€ 3.40",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.10",
+                "priceLarge":"€ 2.00",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.80",
+                "priceLarge":"€ 3.50",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 3.60",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.20",
+                "priceLarge":"€ 4.30",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.20",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -1089,64 +1089,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.30",
+                "priceLarge":"€ 2.50",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.80",
+                "priceLarge":"€ 2.20",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.70",
+                "priceLarge":"€ 3.40",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.30",
+                "priceLarge":"€ 2.20",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.70",
+                "priceLarge":"€ 3.50",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 4.00",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.50",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.50",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -1185,23 +1185,23 @@
                 "id":1,
                 "name":"Expresso",
                 "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceLarge":"€ 2.30",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.50",
+                "priceLarge":"€ 2.30",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.50",
+                "priceLarge":"€ 3.50",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
@@ -1209,39 +1209,39 @@
                 "id":4,
                 "name":"Americano",
                 "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceLarge":"€ 2.30",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.50",
+                "priceLarge":"€ 3.50",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 4.00",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.50",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.50",
+                "priceLarge":"€ 4.50",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -1280,64 +1280,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.20",
+                "priceLarge":"€ 2.25",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.25",
+                "priceLarge":"€ 2.20",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.25",
+                "priceLarge":"€ 3.20",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.20",
+                "priceLarge":"€ 2.25",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.25",
+                "priceLarge":"€ 3.25",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 2.25",
+                "priceLarge":"€ 3.20",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 2.25",
+                "priceLarge":"€ 3.20",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.25",
+                "priceLarge":"€ 4.20",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 },]
@@ -1377,14 +1377,14 @@
                 "id":1,
                 "name":"Expresso",
                 "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceLarge":"€ 2.55",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
+                "priceSmall":"€ 1.65",
                 "priceLarge":"€ 2.60",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
@@ -1392,16 +1392,16 @@
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.75",
+                "priceLarge":"€ 3.70",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.80",
+                "priceLarge":"€ 2.85",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
@@ -1409,30 +1409,30 @@
                 "id":5,
                 "name":"Cappuccino",
                 "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceLarge":"€ 3.95",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.15",
+                "priceLarge":"€ 3.20",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.25",
+                "priceLarge":"€ 4.30",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
+                "priceSmall":"€ 3.35",
                 "priceLarge":"€ 4.40",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
@@ -1472,64 +1472,64 @@
                 {
                 "id":1,
                 "name":"Expresso",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.00",
+                "priceLarge":"€ 2.00",
                 "description":"Een klein kopje koffie dat het resultaat is van heet water dat onder hoge druk door een kleine hoeveelheid fijn gemalen koffie wordt geperst",
                 "image":"../images/expresso.jpg"
                 },
                 {
                 "id":2,
                 "name":"Macchiato",
-                "priceSmall":"€ 1.75",
-                "priceLarge":"€ 2.60",
+                "priceSmall":"€ 1.00",
+                "priceLarge":"€ 2.00",
                 "description":"Een espresso met een warme scheut opgeschuimde melk",
                 "image":"../images/macchiato.jpg"
                 },
                 {
                 "id":3,
                 "name":"Gibraltar",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.80",
+                "priceSmall":"€ 2.00",
+                "priceLarge":"€ 3.00",
                 "description":"Een shot espresso met een klein beetje hete melk en nog minder schuim.",
                 "image":"../images/gibraltar.jpg"
                 },
                 {
                 "id":4,
                 "name":"Americano",
-                "priceSmall":"€ 1.50",
-                "priceLarge":"€ 2.35",
+                "priceSmall":"€ 1.00",
+                "priceLarge":"€ 2.00",
                 "description":"Een koffiebereiding waarbij een espresso wordt aangelengd met heet water.",
                 "image":"../images/americano.jpg"                
                 },
                 {
                 "id":5,
                 "name":"Cappuccino",
-                "priceSmall":"€ 2.95",
-                "priceLarge":"€ 3.65",
+                "priceSmall":"€ 2.00",
+                "priceLarge":"€ 3.00",
                 "description":"Een heerlijke shot espresso, vergezeld door één deel melk en één deel melkschuim.",
                 "image":"../images/cappuccino.jpg"                
                 },
                 {
                 "id":6,
                 "name":"Latte",
-                "priceSmall":"€ 3.05",
-                "priceLarge":"€ 3.90",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 4.00",
                 "description":"Koffie met melk. Veel melk.",
                 "image":"../images/latte.jpg"                
                 },
                 {
                 "id":7,
                 "name":"Mocha",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 4.00",
                 "description":"Een heerlijk voorverwarmd kopje met één deel warme chocolademelk, twee delen espresso en warme melk en top met één deel melkschuim.",
                 "image":"../images/mocha.jpg"                
                 },
                 {
                 "id":8,
                 "name":"Flavored Latte",
-                "priceSmall":"€ 3.55",
-                "priceLarge":"€ 4.40",
+                "priceSmall":"€ 3.00",
+                "priceLarge":"€ 4.00",
                 "description":"Een espresso met warme melk, op smaak gebracht met een siroopje.",
                 "image":"../images/flavoredcoffee.jpg"                
                 }]
