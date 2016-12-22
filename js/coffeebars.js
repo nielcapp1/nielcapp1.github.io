@@ -22,7 +22,6 @@
             "zondag":"12:00–00:00"
             },
         "opts":{"title":"Le Bal Infernal"},
-        "facebook":"https://www.facebook.com/lebalinfernal/?fref=ts",
         "wifi":
             {
             "wifiname":"Le Bal Infernal",
@@ -118,7 +117,6 @@
             "zondag":"gesloten"
             },
         "opts":{"title":"Barista"},
-        "facebook":"https://www.facebook.com/BARISTA-coffeecake-36801171140/",
         "wifi":
             {
             "wifiname":"Barista",
@@ -214,7 +212,6 @@
             "zondag":"Gesloten"
             },
         "opts":{"title":"MYplace"},
-        "facebook":"https://www.facebook.com/atMYgent/?fref=ts",
         "wifi":
             {
             "wifiname":"MYplace",
@@ -310,7 +307,6 @@
             "zondag":"Gesloten"
             },
         "opts":{"title":"Le Petit Cirque"},
-        "facebook":"https://www.facebook.com/lepetitcirque/?fref=ts",
         "wifi":
             {
             "wifiname":"Le Petit Cirque",
@@ -406,7 +402,6 @@
             "zondag":"09:00–21:00"
             },
         "opts":{"title":"Mrs. Beanzz"},
-        "facebook":"https://www.facebook.com/pages/Mrs-Beanzz/183886628394688?fref=ts",
         "wifi":
             {
             "wifiname":"Mrs. Beanzz",
@@ -502,7 +497,6 @@
             "zondag":"09:00–18:30"
             },
         "opts":{"title":"Chocolato"},
-        "facebook":"https://www.facebook.com/chocolatier.chocolato/",
         "wifi":
             {
             "wifiname":"Chocolato",
@@ -598,7 +592,6 @@
             "zondag":"Gesloten"
             },
         "opts":{"title":"Belle Histoire"},
-        "facebook":"https://www.facebook.com/Belle-Histoire-156115537780911/?fref=ts",
         "wifi":
             {
             "wifiname":"Belle Histoire",
@@ -694,7 +687,6 @@
             "zondag":"10:00–19:00"
             },
         "opts":{"title":"Bar Jan Cremer"},
-        "facebook":"https://www.facebook.com/barjancremer/?fref=ts",
         "wifi":
             {
             "wifiname":"Bar Jan Cremer",
@@ -790,7 +782,6 @@
             "zondag":"09:00-13:00"
             },
         "opts":{"title":"Paard van Troje"},
-        "facebook":"https://www.facebook.com/Paard-Van-Troje-142973938539/?fref=ts",
         "wifi":
             {
             "wifiname":"Paard van Troje",
@@ -886,7 +877,6 @@
             "zondag":"Gesloten"
             },
         "opts":{"title":"Mokabon"},
-        "facebook":"https://www.facebook.com/pages/Gent-Mokabon/604898379611584",
         "wifi":
             {
             "wifiname":"Mokabon",
@@ -982,7 +972,6 @@
             "zondag":"10:00–18:00"
             },
         "opts":{"title":"Bar Bidon"},
-        "facebook":"https://www.facebook.com/BIDON-Coffee-Bicycle-165510023639475/?hc_ref=SEARCH&fref=nf",
         "wifi":
             {
             "wifiname":"Bar Bidon",
@@ -1077,7 +1066,6 @@
             "zondag":"10:00–18:00"
             },
         "opts":{"title":"Labath"},
-        "facebook":"https://www.facebook.com/Caf%C3%A9-Labath-181793361867962/?fref=ts",
         "wifi":
             {
             "wifiname":"Labath",
@@ -1172,7 +1160,6 @@
             "zondag":"10:00–18:00"
             },
         "opts":{"title":"Or Espresso Bar"},
-        "facebook":"https://www.facebook.com/ORCoffeeRoasters/",
         "wifi":
             {
             "wifiname":"Or Espresso Bar",
@@ -1268,7 +1255,6 @@
             "zondag":"Gesloten"
             },
         "opts":{"title":"Koffies De Draak"},
-        "facebook":"https://www.facebook.com/koffiesdedraak/?fref=ts",
         "wifi":
             {
             "wifiname":"Koffies De Draak",
@@ -1364,7 +1350,6 @@
             "zondag":"09:00–17:30"
             },
         "opts":{"title":"Maison Elza"},
-        "facebook":"https://www.facebook.com/thehouseofeliottgent/?fref=ts",
         "wifi":
             {
             "wifiname":"Maison Elza",
@@ -1460,7 +1445,6 @@
             "zondag":"10:00–18:00"
             },
         "opts":{"title":"Simon Says"},
-        "facebook":"https://www.facebook.com/simonsaysghent/?fref=ts",
         "wifi":
             {
             "wifiname":"Simon Says",
