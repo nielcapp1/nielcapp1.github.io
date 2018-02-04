@@ -4,19 +4,16 @@
     <meta charset="utf-8">
     <title>360&deg; Image Gallery</title>
     <meta name="description" content="360&deg; Image Gallery - A-Frame">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
     <script src="https://npmcdn.com/aframe-animation-component@3.0.1"></script>
     <script src="https://npmcdn.com/aframe-event-set-component@3.0.1"></script>
     <script src="https://npmcdn.com/aframe-layout-component@3.0.1"></script>
     <script src="https://npmcdn.com/aframe-template-component@3.1.1"></script>
-    <script src="https://rawgit.com/bestiejs/platform.js/master/platform.js"></script>
-    <script src="https://rawgit.com/protyze/aframe-always-fullscreen-component/master/dist/aframe-always-fullscreen-component.min.js"></script>
     <script src="/scripts/set-image.js"></script>
   </head>
   <body>
     <!--BEGIN: A-Scene -->
-    <a-scene auto-enter-vr="display: all" embedded always-fullscreen>
+    <a-scene>
       <!--BEGIN: Assets-->
       <a-assets>
         <audio id="background" src="assets/sounds/guns.mp3" preload="auto"></audio>
