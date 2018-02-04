@@ -5,6 +5,24 @@ if (typeof AFRAME === 'undefined') {
 }
 
 /**
+ * Auto Enter VR component for A-Frame.
+ */
+AFRAME.registerComponent('auto-init-vr', {
+    init: function () {
+
+        var scene = this;
+
+        scene.el.addEventListener('loaded', function () {
+            setTimeout(function(){
+                console.log('Automatically entering VR...');
+                scene.el.sceneEl.enterVR();
+            },1000);
+        });
+    }
+});
+
+
+/**
  * Hyper Link component for A-Frame.
  */
 AFRAME.registerComponent('href', {
@@ -95,18 +113,4 @@ AFRAME.registerComponent('href', {
   remove: function() {
     this.el.removeEventListener('click', this.boundClickHandler);
   }
-});
-
-AFRAME.registerComponent('auto-init-vr', {
-    init: function () {
-
-        var scene = this;
-
-        scene.el.addEventListener('loaded', function () {
-            setTimeout(function(){
-                console.log('Automatically entering VR...');
-                scene.el.sceneEl.enterVR();
-            },1000);
-        });
-    }
 });
