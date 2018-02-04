@@ -97,33 +97,20 @@ AFRAME.registerComponent('href', {
   }
 });
 
-
-// document.querySelector('a-scene').enterVR();
-
-window.addEventListener('load', function () {
+(function () {
+  // switch to stereoscopic mode directly on page load, this needs to be after the a-scene loads.
   var scene = document.querySelector('a-scene');
   if (scene.hasLoaded) {
-    scene.enterVR();
-  } else {
-    el.addEventListener('loaded', function () {
       scene.enterVR();
-    });
-  }
-});
-// (function () {
-//   // switch to stereoscopic mode directly on page load, this needs to be after the a-scene loads.
-//   var scene = document.querySelector('a-scene');
-//   if (scene.hasLoaded) {
-//       scene.enterVR();
-//       scene.style.opacity= "1";
-//   } else {
-//       scene.addEventListener('loaded', function () {
-//           setTimeout(function () {
-//               scene.enterVR();
-//               setTimeout(function () {
-//                 scene.style.opacity= "1";
-//               }, 1000);
-//           }, 500);
-//       });
-//   };
-// })();
+      scene.style.opacity= "1";
+  } else {
+      scene.addEventListener('loaded', function () {
+          setTimeout(function () {
+              scene.enterVR();
+              setTimeout(function () {
+                scene.style.opacity= "1";
+              }, 1000);
+          }, 500);
+      });
+  };
+})();
