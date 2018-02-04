@@ -4,22 +4,6 @@ if (typeof AFRAME === 'undefined') {
     ' was available.');
 }
 
-
-AFRAME.registerComponent('auto-init-vr', {
-    init: function () {
-
-        var scene = this;
-
-        scene.el.addEventListener('loaded', function () {
-          scene.el.sceneEl.enterVR();
-            // setTimeout(function(){
-            //     console.log('Automatically entering VR...');
-            //     scene.el.sceneEl.enterVR();
-            // },1000);
-        });
-    }
-});
-
 /**
  * Hyper Link component for A-Frame.
  */
@@ -113,3 +97,16 @@ AFRAME.registerComponent('href', {
   }
 });
 
+AFRAME.registerComponent('auto-init-vr', {
+    init: function () {
+
+        var scene = this;
+
+        scene.el.addEventListener('loaded', function () {
+            setTimeout(function(){
+                console.log('Automatically entering VR...');
+                scene.el.sceneEl.enterVR();
+            },1000);
+        });
+    }
+});
