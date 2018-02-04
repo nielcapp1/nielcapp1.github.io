@@ -9,11 +9,13 @@
     <script src="https://npmcdn.com/aframe-event-set-component@3.0.1"></script>
     <script src="https://npmcdn.com/aframe-layout-component@3.0.1"></script>
     <script src="https://npmcdn.com/aframe-template-component@3.1.1"></script>
+    <script src="https://rawgit.com/bestiejs/platform.js/master/platform.js"></script>
+    <script src="https://rawgit.com/protyze/aframe-always-fullscreen-component/master/dist/aframe-always-fullscreen-component.min.js"></script>
     <script src="/scripts/set-image.js"></script>
   </head>
   <body>
     <!--BEGIN: A-Scene -->
-    <a-scene auto-enter-vr="display: all">
+    <a-scene auto-enter-vr="display: all" embedded always-fullscreen>
       <!--BEGIN: Assets-->
       <a-assets>
         <audio id="background" src="assets/sounds/guns.mp3" preload="auto"></audio>
