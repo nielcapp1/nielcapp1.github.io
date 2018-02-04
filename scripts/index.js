@@ -97,11 +97,7 @@ AFRAME.registerComponent('href', {
   }
 });
 
-AFRAME.registerComponent('auto-enter-vr', {
-  init: function () {
-    this.el.sceneEl.enterVR();
-  }
-});
+document.querySelector('a-scene').enterVR();
 
 // (function () {
 //   // switch to stereoscopic mode directly on page load, this needs to be after the a-scene loads.
