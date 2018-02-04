@@ -10,11 +10,10 @@
     <script src="https://npmcdn.com/aframe-layout-component@3.0.1"></script>
     <script src="https://npmcdn.com/aframe-template-component@3.1.1"></script>
     <script src="/scripts/set-image.js"></script>
-    <script src="/scripts/index.js"></script>
   </head>
   <body>
     <!--BEGIN: A-Scene -->
-    <a-scene>
+    <a-scene id="test">
       <!--BEGIN: Assets-->
       <a-assets>
         <audio id="background" src="assets/sounds/guns.mp3" preload="auto"></audio>
@@ -45,5 +44,6 @@
       <!-- END: Camera -->
     </a-scene>
     <!-- END: A-scene -->
+    <script src="/scripts/index.js"></script>
   </body>
 </html>
