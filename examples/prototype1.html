@@ -10,8 +10,6 @@
     <script src="https://npmcdn.com/aframe-layout-component@3.0.1"></script>
     <script src="https://npmcdn.com/aframe-template-component@3.1.1"></script>
     <script src="/scripts/set-image.js"></script>
-    <script src="/scripts/aframe-html-shader.min.js"></script>
-    <link href="/css/main.css" rel="stylesheet">
     
   </head>
   <body>
@@ -45,15 +43,10 @@
         </a-camera>
       </a-entity>
       <!-- END: Camera -->
-      
-      <!-- BEGIN: Description -->
-      <a-entity color="#4CC3D9" geometry="primitive: cylinder; radius: 47; height: 5; thetaStart: -80; thetaLength: -20; openEnded: true" material="shader: html; target: #prototype01;" update-repeat position="0 -15 0" rotation="0 -90 0"></a-entity>
-      <!-- END: Description -->
-
     </a-scene>
-
-    <div class="prototype" id="prototype01">
-      <h1>PROTOTYPE 1</h1>
+    
+    <div class="description" id="description01">
+      <p>Door te kijken naar een soldaat kun je de afbeelding die zich achter je bevindt veranderen.</p>
     </div>
     <script src="/scripts/index.js"></script>
     <!-- END: A-scene -->
