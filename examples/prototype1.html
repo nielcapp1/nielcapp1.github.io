@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>360&deg; Image Gallery</title>
+    <meta name="description" content="360&deg; Image Gallery - A-Frame">
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+    <script src="https://npmcdn.com/aframe-animation-component@3.0.1"></script>
+    <script src="https://npmcdn.com/aframe-event-set-component@3.0.1"></script>
+    <script src="https://npmcdn.com/aframe-layout-component@3.0.1"></script>
+    <script src="https://npmcdn.com/aframe-template-component@3.1.1"></script>
+    <script src="/scripts/set-image.js"></script>
+    <script src="/scripts/index.js"></script>
+  </head>
+  <body>
+    <!--BEGIN: A-Scene -->
+    <a-scene>
+      <!--BEGIN: Assets-->
+      <a-assets>
+        <audio id="background" src="assets/sounds/guns.mp3" preload="auto"></audio>
+        <img id="placeholder01" src="assets/prototype/PanoTrenchWW1.jpg">
+        <img id="backButton" src="assets/buttons/button_back.png">
+        <img id="nextButton" src="assets/buttons/button_next.png">
+        <img id="stopButton" src="assets/buttons/button_stop.png">
+      </a-assets>
+      <!--END: Assets-->
+      <!-- BEGIN: A-sky -->
+      <a-sky src="#placeholder01"></a-sky>
+      <!-- END: A-sky -->
+      <!-- BEGIN: Sound -->
+      <a-entity sound="src: #background; autoplay: true; volume: 1; loop: true;"></a-entity>
+      <!-- END: Sound -->
+
+      <!-- BEGIN: Buttons -->
+      <a-curvedimage href="../examples/prototype2.html" height="3.0"  radius="47" theta-start="175" theta-length="10" position="0 33 0" rotation="0 0 0" src="#nextButton"></a-curvedimage>
+      <a-curvedimage href="../index.html" height="3.0"  radius="47" theta-start="163" theta-length="10" position="0 33 0" rotation="0 0 0" src="#stopButton"></a-curvedimage>
+      <!-- END: Buttons -->
+
+      <!-- BEGIN: Camera -->
+      <a-entity position="0 10 0">
+        <a-camera look-controls>
+          <a-cursor color="#4CC3D9" animation__click="property: scale; startEvents: click; from: 0.1 0.1 0.1; to: 1 1 1; dur: 150" animation__fusing="property: fusing; startEvents: fusing; from: 1 1 1; to: 0.1 0.1 0.1; dur: 1500" event-set__1="_event: mouseenter; color: springgreen" event-set__2="_event: mouseleave; color: black" fuse="true"></a-cursor>
+        </a-camera>
+      </a-entity>
+      <!-- END: Camera -->
+    </a-scene>
+    <!-- END: A-scene -->
+  </body>
+</html>
