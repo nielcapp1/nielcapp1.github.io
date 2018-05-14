@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>360&deg; Image Gallery</title>
+    <meta name="description" content="360&deg; Image Gallery - A-Frame">
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+    <script src="https://npmcdn.com/aframe-animation-component@3.0.1"></script>
+    <script src="https://npmcdn.com/aframe-event-set-component@3.0.1"></script>
+    <script src="https://npmcdn.com/aframe-layout-component@3.0.1"></script>
+    <script src="https://npmcdn.com/aframe-template-component@3.1.1"></script>
+    <script src="/scripts/set-image.js"></script>
+    <script src="/scripts/index.js"></script>
+    <script src="/scripts/aframe-html-shader.min.js"></script>
+    <link href="/css/main.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- BEGIN: A-scene -->
+    <a-scene>
+      <!-- BEGIN: Asssets -->
+      <a-assets>
+        <img id="soldier01" transparent="true" crossorigin="anonymous" src="assets/images/SoldierButton_01.png">
+        <img id="soldier02" transparent="true" crossorigin="anonymous" src="assets/images/SoldierButton_02.png">
+        <img id="soldier03" transparent="true" crossorigin="anonymous" src="assets/images/SoldierButton_03.png">
+        <audio id="background" src="assets/sounds/guns.mp3" preload="auto"></audio>
+        <audio id="click-sound" crossorigin="anonymous" src="https://cdn.aframe.io/360-image-gallery-boilerplate/audio/click.ogg"></audio>
+        <img id="imagePlaceholder01" crossorigin="anonymous" src="assets/prototype/Lakenhallen01.jpg">
+        <img id="imagePlaceholder02" crossorigin="anonymous" src="assets/prototype/Lakenhallen02.jpg">
+        <img id="imagePlaceholder03" crossorigin="anonymous" src="assets/prototype/Lakenhallen03.jpg">
+        <img id="backButton" src="assets/buttons/button_back.png">
+        <img id="nextButton" src="assets/buttons/button_next.png">
+        <img id="stopButton" src="assets/buttons/button_stop.png">
+        <script id="link" type="text/html">
+            <a-entity class="link"
+              geometry="primitive: plane;"
+              material="transparent: true; shader: flat; src: ${thumb}"
+              event-set__1="_event: mousedown; scale: 1 1 1"
+              event-set__2="_event: mouseup; scale: 1.2 1.2 1"
+              event-set__3="_event: mouseenter; scale: 1.2 1.2 1"
+              event-set__4="_event: mouseleave; scale: 1 1 1"
+              set-image="on: click; target: #image-360; src: ${src}"
+              sound="on: click; src: #click-sound"></a-entity>
+          </script>
+      </a-assets>
+      <!-- END: Asssets -->
+      
+      <!-- BEGIN: Soldier links -->                 
+      <a-entity id="links" layout="type: line; margin: 5" position="-5 11 -10">
+        <a-curvedimage set-image="on: click; target: #image-360; src: #imagePlaceholder01" sound="on: click; src: #click-sound" theta-start="195"  radius="50" theta-length="10" template="src: #link" height="20" src="#soldier01"></a-curvedimage>
+        <a-curvedimage set-image="on: click; target: #image-360; src: #imagePlaceholder02" sound="on: click; src: #click-sound" theta-start="175"  radius="50" theta-length="10" template="src: #link" height="20" src="#soldier02"></a-curvedimage>
+        <a-curvedimage set-image="on: click; target: #image-360; src: #imagePlaceholder03" sound="on: click; src: #click-sound" theta-start="155"  radius="50" theta-length="10" template="src: #link" height="20" src="#soldier03"></a-curvedimage>
+      </a-entity>
+      <!-- END: Soldier links -->         
+ 
+      <!-- BEGIN: Sound -->
+      <a-entity sound="src: #background; autoplay: true; volume: .2; loop: true;"></a-entity>
+      <!-- END: Sound -->
+
+      <!-- BEGIN: A-sky -->
+      <a-sky color="#262626"></a-sky>
+      <!-- END: A-sky -->
+
+      <!-- BEGIN: Buttons -->
+      <a-curvedimage href="../examples/prototype1.html" height="3.0"  radius="47" theta-start="187" theta-length="10" position="0 33 0" rotation="0 0 0" src="#backButton"></a-curvedimage>
+      <a-curvedimage href="../examples/prototype3.html" height="3.0"  radius="47" theta-start="175" theta-length="10" position="0 33 0" rotation="0 0 0" src="#nextButton"></a-curvedimage>
+      <a-curvedimage href="../index.html" height="3.0"  radius="47" theta-start="163" theta-length="10" position="0 33 0" rotation="0 0 0" src="#stopButton"></a-curvedimage>
+      <!-- END: Buttons -->
+      
+      <!-- BEGIN: A-sky -->
+      <a-sky color="#262626"></a-sky>
+      <!-- END: A-sky -->
+
+      <!-- BEGIN: Curved images -->
+      <a-curvedimage height="50.0"  radius="50" theta-start="270" theta-length="180" position="0 15 0" rotation="0 0 0"  id="image-360" src="#imagePlaceholder01">
+      </a-curvedimage>
+      <!-- END: Curved images -->
+
+      <!-- BEGIN: Buttons -->
+      <a-curvedimage href="../index.html" height="3.0"  radius="47" theta-start="187" theta-length="10" position="0 33 0" rotation="0 0 0" src="#backButton"></a-curvedimage>
+      <a-curvedimage href="../index.html" height="3.0"  radius="47" theta-start="175" theta-length="10" position="0 33 0" rotation="0 0 0" src="#nextButton"></a-curvedimage>
+      <a-curvedimage href="../index.html" height="3.0"  radius="47" theta-start="163" theta-length="10" position="0 33 0" rotation="0 0 0" src="#stopButton"></a-curvedimage>
+      <!-- END: Buttons -->
+      
+      <!-- BEGIN: Frame partials -->
+
+        <!--BEGIN: Bottom-->
+        <a-curvedimage height="10.0"  radius="48" theta-start="90" theta-length="360" position="0 -10 0" rotation="0 0 0"  id="image-360" color="#262626">
+        </a-curvedimage>
+        <!--END: Bottom-->
+
+        <!--BEGIN: Top-->
+        <a-curvedimage height="2.0"  radius="48" theta-start="90" theta-length="360" position="0 38 0" rotation="0 0 0"  id="image-360" color="#262626">
+        </a-curvedimage>
+        <!--END: Top-->
+
+         <!--BEGIN: Pilars-->
+        <a-curvedimage height="48.0"  radius="48" theta-start="268" theta-length="4" position="0 15 0" rotation="0 0 0"  id="image-360" color="#262626"></a-curvedimage>
+        <a-curvedimage height="48.0"  radius="48" theta-start="88" theta-length="4" position="0 15 0" rotation="0 0 0"  id="image-360" color="#262626"></a-curvedimage>
+        <!--END: Pilars-->
+
+      <!-- BEGIN: End partials -->
+      
+      <!-- BEGIN: Textured plane parallel to ground. -->
+      <a-cylinder id="ground" color="#262626" position="0 -20 0" radius="50" height="0.1"></a-cylinder>
+      <!-- END: Textured plane parallel to ground. --> 
+
+      <!-- BEGIN: Textured plane parallel to sky. -->
+      <a-cylinder id="sky" color="#262626" position="0 40 0" rotation="0 180 180" radius="50" height="0.1"></a-cylinder>
+      <!-- END: Textured plane parallel to sky. -->
+
+        <!-- BEGIN: Description -->
+        <a-entity geometry="primitive: cylinder; radius: 47; height: 20; thetaStart: -45; thetaLength: -90; openEnded: true" material="shader: html; target: #description01; transparent: true;" update-repeat position="0 -15 0" rotation="0 -90 0"></a-entity>
+        <!-- END: Description -->
+
+      <!-- BEGIN: Camera -->
+      <a-entity position="0 10 0">
+        <a-camera look-controls>
+          <a-cursor color="#4CC3D9" animation__click="property: scale; startEvents: click; from: 0.1 0.1 0.1; to: 1 1 1; dur: 150" animation__fusing="property: fusing; startEvents: fusing; from: 1 1 1; to: 0.1 0.1 0.1; dur: 1500" event-set__1="_event: mouseenter; color: springgreen" event-set__2="_event: mouseleave; color: black" fuse="true"></a-cursor>
+        </a-camera>
+      </a-entity>
+      <!-- END: Camera -->
+    </a-scene>
+    <!-- END: A-scene -->
+
+    <div class="description" id="description01">
+      <p> Achter je bevindt zich een afbeelding.<br>Je kunt de afbeelding veranderen door te kijken richting een soldaat.</p>
+    </div>
+
+    <div class="description" id="description02">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+
+  </body>
+</html>
